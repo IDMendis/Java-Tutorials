@@ -1,0 +1,3 @@
+Welcome to Dinus Tutorials 
+ Learning java is fun!
+This is an appended line.
