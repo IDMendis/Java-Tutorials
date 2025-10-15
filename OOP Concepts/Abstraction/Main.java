@@ -22,3 +22,4 @@ public class Main {
         p.sleep();
     }
 }
+// abstraction is used to hide certain details and show only the necessary parts of an object

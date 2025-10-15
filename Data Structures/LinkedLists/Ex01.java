@@ -12,9 +12,16 @@ public class Ex01 {
         numbers.add(30);
 
         Collections.sort(numbers);  // Sort the ArrayList in ascending order
-
+// Collections.sort(cars, Collections.reverseOrder());   this reverses the list
         for(int i : numbers){
             System.out.println(i);
         }
     }
 }
+
+
+/* set interface is used to store collection of unique elements
+ * unlike Lists, sets does not allow duplicates
+ * common clases that implements sets are - hashsets, treesets, linkedhashsets
+ * USE A SET WHEN YOU NEED TO STORE UNIQUE VALUES ONLY....!
+ */

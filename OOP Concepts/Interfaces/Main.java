@@ -20,6 +20,11 @@ class Pig implements Animal{
     public void sleep(){
         System.out.println("Pig sleeps : Zzz");
     }
+    @Override
+    public void ear() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'ear'");
+    }
    
 }
 
